@@ -6,7 +6,7 @@
 <br>
 📚 Ciências da Computação - USJT (2º Semestre).
 <br>
-📜 Simplesmente adoro programar, produzir conteúdo e aprender novas coisas.
+📜 Simplesmente adoro programar, produzir conteúdo e aprender coisas novas.
 <br>
 🧠 HTML, CSS, JS, Java, Python, C++, Etc...
 <br>
