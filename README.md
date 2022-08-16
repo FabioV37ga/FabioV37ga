@@ -4,7 +4,7 @@
 <br>
 🔻 São Paulo - SP
 <br>
-📚 Ciências da Computação - USJT (2º Semestre).
+📚 Ciência da Computação - USJT (2º Semestre).
 <br>
 📜 Simplesmente adoro programar, produzir conteúdo e aprender coisas novas.
 <br>
