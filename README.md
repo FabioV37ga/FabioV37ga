@@ -17,6 +17,7 @@
   <li>Lógica de programação com JS (Caelum - 2019)</li>
   <li>Curso de Formação Front-End (Caelum - 2020)</li>
   <li>Python3 (Alura - 2022)</li>
+  <li>MySQL e JSON (Alura - 2022)</li>
 </ul>
 
 <br><br>
