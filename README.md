@@ -8,7 +8,9 @@
 <br>
 📜 Simplesmente adoro programar, produzir conteúdo e aprender coisas novas.
 <br>
-🧠 HTML, CSS, JS, Java, Python, C++, Etc...
+🧠 HTML, CSS, <b>JS*</b>, Java, Python, C++, Etc...
+<br>
+<small>* Atualmente o que mais estudo e gosto de programar.</small>
 <br>
 💻 <a href="https://fabiov37ga.github.io/">[Portfolio]</a> (WIP)
 
