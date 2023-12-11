@@ -12,7 +12,7 @@
 <br>
 <small>* Atualmente o que mais estudo e gosto de programar.</small>
 <br>
-💻 <a href="https://fabiov37ga.github.io/">[Portfolio]</a> (WIP)
+💻 <a href="https://fabiov37ga.github.io/">[Portfolio]</a>
 
 <h3> Cursos 📖✍ </h3>
 <ul>
