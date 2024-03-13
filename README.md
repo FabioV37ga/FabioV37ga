@@ -1,10 +1,10 @@
 ### Apresentação 👋
 
-✅ Fábio Veiga, 20 anos. 
+✅ Fábio Veiga, 21 anos. 
 <br>
 🔻 São Paulo - SP
 <br>
-📚 Ciência da Computação - USJT (4º Semestre).
+📚 Ciência da Computação - USJT (5º Semestre).
 <br>
 📜 Adoro programar, produzir conteúdo e aprender coisas novas.
 <br>
