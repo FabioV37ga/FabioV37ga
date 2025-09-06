@@ -8,7 +8,7 @@
 <br><br>
 📜 Prestes a me formar em Ciência da Computação, procuro desenvolver projetos <br>       focados em Front-End, onde pretendo me especializar. Recentemente entrando <br>       no mundo do Back-End.
 <br>
-🧠 HTML, CSS, <b>JS*</b>,TypeScript, Java, Python, C++, Etc...
+🧠 HTML, CSS, <b>JS*</b>, TypeScript, Java, Python, C++, Etc...
 <br>
 ><small>* Atualmente o que mais estudo e gosto de programar.</small>
 
