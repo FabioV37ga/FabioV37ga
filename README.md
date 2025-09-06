@@ -5,14 +5,16 @@
 🔻 São Paulo - SP
 <br>
 📚 Ciência da Computação - USJT (8º Semestre).
-<br>
+<br><br>
 📜 Prestes a me formar em Ciência da Computação, procuro desenvolver projetos <br>       focados em Front-End, onde pretendo me especializar. Recentemente entrando <br>       no mundo do Back-End.
 <br>
 🧠 HTML, CSS, <b>JS*</b>,TypeScript, Java, Python, C++, Etc...
 <br>
-<small>* Atualmente o que mais estudo e gosto de programar.</small>
+><small>* Atualmente o que mais estudo e gosto de programar.</small>
+
 <br>
-💻 <a href="https://fabiov37ga.github.io/">[Portfolio]</a>
+💻 <a href="https://fabiov37ga.github.io/">Portfolio</a>
+<br><br>
 
 <h3> Cursos 📖✍ </h3>
 <ul>
@@ -26,7 +28,6 @@
 </ul>
 
 <br><br>
-
 🎵 It Was A Good Day - Ice Cube
 
 
