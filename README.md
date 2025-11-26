@@ -100,6 +100,12 @@ Um sistema inovador de nutrição que combina tecnologia moderna com funcionalid
     <td>Alura</td>
     <td>2025</td>
   </tr>
+  <tr>
+    <td>⚛️</td>
+    <td><b>React: desenvolvendo com javascript</b></td>
+    <td>Alura</td>
+    <td>2025</td>
+  </tr>
 </table>
 
 ---
